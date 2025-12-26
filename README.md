@@ -1,9 +1,9 @@
 # 🧘‍♂️ AI-Driven Smart Yoga Mat for Personalized Yoga Guidance and Progress Analytics
-📌 Project Title
+ Project Title
 
 A Smart Yoga Mat integrated with Artificial Intelligence (AI) capabilities to support smart watch integration for tracking progress and provide curated yoga content by experts, while ensuring its affordability
 
-## 📖 Abstract
+##  Abstract
 
 The Smart Yoga Mat is an innovative fusion of artificial intelligence and wellness technology designed to enhance yoga practice through real-time posture correction, personalized guidance, and holistic fitness tracking. Embedded sensors and camera-based pose estimation capture user movements, while AI analyzes posture, balance, and alignment to deliver instant feedback.
 
@@ -79,7 +79,7 @@ Adaptive recommendations based on performance
 
 This creates a mindful, uninterrupted, and highly engaging yoga experience.
 
-## ⌚ Smart Watch Integration
+##  Smart Watch Integration
 
 The system integrates seamlessly with smart watches to track:
 
@@ -125,7 +125,7 @@ Community challenges & leaderboards
 
 Rehabilitation & therapy-focused yoga modes
 
-👨‍💻 Team
+## Team
 
 White Hats 2.0
 A team of passionate innovators building intelligent, ethical, and human-centric technology solutions.
