@@ -1,0 +1,36 @@
+{
+  "os":  "Windows-11-10.0.26200-SP0",
+  "python":  "CPython 3.12.4",
+  "startedAt":  "2025-12-26T11:08:45.016945Z",
+  "program":  "c:\\Users\\User\\Desktop\\Yoga-Mat-master\\app.py",
+  "codePath":  "app.py",
+  "codePathLocal":  "app.py",
+  "email":  "shreyastiwari53@gmail.com",
+  "root":  "C:\\Users\\User\\Desktop\\Yoga-Mat-master",
+  "host":  "SHADOW",
+  "executable":  "C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+  "cpu_count":  6,
+  "cpu_count_logical":  12,
+  "gpu":  "NVIDIA GeForce GTX 1650",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "299884343296",
+      "used":  "220214460416"
+    }
+  },
+  "memory":  {
+    "total":  "8358518784"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce GTX 1650",
+      "memoryTotal":  "4294967296",
+      "cudaCores":  896,
+      "architecture":  "Turing",
+      "uuid":  "GPU-b74a3980-fa13-6c93-258b-f7affdce5cbc"
+    }
+  ],
+  "cudaVersion":  "12.1",
+  "writerId":  "w6z7at16amwtts9bmbv1wv73qpd98sf2"
+}

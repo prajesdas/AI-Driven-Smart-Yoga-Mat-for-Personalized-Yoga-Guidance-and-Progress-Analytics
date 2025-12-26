@@ -1,0 +1,37 @@
+[34m[1mwandb[0m: Detected [google.genai] in use.
+[34m[1mwandb[0m: Use W&B Weave for improved LLM call tracing. Install Weave with `pip install weave` then add `import weave` to the top of your script.
+[34m[1mwandb[0m: For more information, check out the docs at: https://weave-docs.wandb.ai/
+WELCOME SIR! PLEASE SPEAK [WAKE UP] TO LOAD ME UP
+Listening.....
+Understanding..
+You Said: wake up
+
+Listening.....
+Understanding..
+You Said: start exercises
+
+Listening.....
+Understanding..
+You Said: 21
+
+Captured input: 21
+Listening.....
+Understanding..
+You Said: 175
+
+Captured input: 175
+Listening.....
+Understanding..
+You Said: 67
+
+Captured input: 67
+Listening.....
+Understanding..
+You Said: push up
+Traceback (most recent call last):
+  File "c:\Users\User\Desktop\Yoga-Mat-master\A_Yoga_main.py", line 300, in <module>
+    pushups()
+  File "c:\Users\User\Desktop\Yoga-Mat-master\A_Yoga_main.py", line 213, in pushups
+    coord_data = f"Shoulders: L({imlist[11][1:]}), R({imlist[12][1:]}) Hips: L({imlist[23][1:]}), R({imlist[24][1:]})"
+                                 ^^^^^^
+UnboundLocalError: cannot access local variable 'imlist' where it is not associated with a value

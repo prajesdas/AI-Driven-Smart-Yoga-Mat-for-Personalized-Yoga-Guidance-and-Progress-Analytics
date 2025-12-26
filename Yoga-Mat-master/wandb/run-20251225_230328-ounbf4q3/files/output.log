@@ -1,0 +1,57 @@
+[34m[1mwandb[0m: Detected [google.genai] in use.
+[34m[1mwandb[0m: Use W&B Weave for improved LLM call tracing. Install Weave with `pip install weave` then add `import weave` to the top of your script.
+[34m[1mwandb[0m: For more information, check out the docs at: https://weave-docs.wandb.ai/
+Listening.....
+You Said: start exercises
+
+Listening.....
+Listening.....
+Listening.....
+Listening.....
+You Said: push up
+C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\google\protobuf\symbol_database.py:55: UserWarning: SymbolDatabase.GetPrototype() is deprecated. Please use message_factory.GetMessageClass() instead. SymbolDatabase.GetPrototype() will be removed soon.
+  warnings.warn('SymbolDatabase.GetPrototype() is deprecated. Please '
+
+Count: 1
+Count: 2
+Count: 3
+Count: 4
+Count: 5
+Count: 6
+Count: 7
+Count: 8
+Count: 9
+Count: 10
+Count: 11
+Count: 12
+Count: 13
+Count: 14
+Count: 15
+Count: 16
+Count: 17
+Count: 18
+Count: 19
+Count: 20
+Count: 21
+Count: 22
+Count: 23
+Count: 24
+Count: 25
+Listening.....
+Traceback (most recent call last):
+  File "c:\Users\User\Desktop\Yoga-Mat-master\A_Yoga_main.py", line 178, in <module>
+  File "c:\Users\User\Desktop\Yoga-Mat-master\A_Yoga_main.py", line 74, in takeCommand
+    engine.say(audio)
+                ^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\speech_recognition\__init__.py", line 460, in listen
+    for a in result:
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\speech_recognition\__init__.py", line 492, in _listen
+    buffer = source.stream.read(source.CHUNK)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\speech_recognition\__init__.py", line 191, in read
+    return self.pyaudio_stream.read(size, exception_on_overflow=False)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyaudio\__init__.py", line 570, in read
+    return pa.read_stream(self._stream, num_frames,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

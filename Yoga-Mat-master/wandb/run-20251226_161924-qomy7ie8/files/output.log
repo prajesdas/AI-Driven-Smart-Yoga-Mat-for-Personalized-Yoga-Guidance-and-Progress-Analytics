@@ -1,0 +1,15 @@
+[34m[1mwandb[0m: Detected [google.genai] in use.
+[34m[1mwandb[0m: Use W&B Weave for improved LLM call tracing. Install Weave with `pip install weave` then add `import weave` to the top of your script.
+[34m[1mwandb[0m: For more information, check out the docs at: https://weave-docs.wandb.ai/
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [26/Dec/2025 16:19:31] "GET /socket.io/?EIO=4&transport=polling&t=PjQHobE HTTP/1.1" 200 -
+127.0.0.1 - - [26/Dec/2025 16:19:31] "POST /socket.io/?EIO=4&transport=polling&t=PjQHobN&sid=NFEwpZvlQL20UkpRAAAA HTTP/1.1" 200 -
+127.0.0.1 - - [26/Dec/2025 16:19:31] "GET /socket.io/?EIO=4&transport=polling&t=PjQHobO&sid=NFEwpZvlQL20UkpRAAAA HTTP/1.1" 200 -
+127.0.0.1 - - [26/Dec/2025 16:19:53] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [26/Dec/2025 16:19:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [26/Dec/2025 16:19:53] "GET /socket.io/?EIO=4&transport=polling&t=PjQHtzo HTTP/1.1" 200 -
+127.0.0.1 - - [26/Dec/2025 16:19:53] "POST /socket.io/?EIO=4&transport=polling&t=PjQHt-F&sid=LOE3eRV4SdqximlQAAAC HTTP/1.1" 200 -
+127.0.0.1 - - [26/Dec/2025 16:19:53] "GET /socket.io/?EIO=4&transport=polling&t=PjQHt-H&sid=LOE3eRV4SdqximlQAAAC HTTP/1.1" 200 -
+127.0.0.1 - - [26/Dec/2025 16:19:53] "GET /socket.io/?EIO=4&transport=polling&t=PjQHt-W&sid=LOE3eRV4SdqximlQAAAC HTTP/1.1" 200 -

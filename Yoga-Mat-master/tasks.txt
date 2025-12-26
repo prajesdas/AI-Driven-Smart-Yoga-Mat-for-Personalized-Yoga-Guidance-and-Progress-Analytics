@@ -1,0 +1,27 @@
+0. 2pm coding
+1. 3pm project scientificoder
+0. reading 
+1. eating
+2. coding
+3. sleeping]
+
+elif "jumping jacks" in query:
+                    os.system("python jumping_jacks.py")
+
+                elif "lunges" in query:
+                    os.system("python lunges.py")
+
+                elif "plank" in query:
+                    os.system("python plank.py")
+
+                elif "high knees" in query:
+                    os.system("python high_knees.py")
+
+                elif "side leg raises" in query:
+                    os.system("python side_leg_raises.py")
+
+                elif "warrior pose" in query or "yoga warrior" in query:
+                    os.system("python yoga_warrior_pose.py")
+
+                elif "burpees" in query:
+                    os.system("python burpees.py")

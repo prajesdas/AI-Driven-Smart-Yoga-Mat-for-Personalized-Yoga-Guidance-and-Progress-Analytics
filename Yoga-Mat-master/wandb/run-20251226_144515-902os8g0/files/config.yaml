@@ -1,0 +1,54 @@
+_wandb:
+    value:
+        cli_version: 0.23.1
+        e:
+            v4ocpgchw8xidplmy5bil8n1xno9wcaq:
+                codePath: A_Yoga_main.py
+                codePathLocal: A_Yoga_main.py
+                cpu_count: 6
+                cpu_count_logical: 12
+                cudaVersion: "12.1"
+                disk:
+                    /:
+                        total: "299884343296"
+                        used: "220190961664"
+                email: shreyastiwari53@gmail.com
+                executable: C:\Users\User\AppData\Local\Programs\Python\Python312\python.exe
+                gpu: NVIDIA GeForce GTX 1650
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Turing
+                      cudaCores: 896
+                      memoryTotal: "4294967296"
+                      name: NVIDIA GeForce GTX 1650
+                      uuid: GPU-b74a3980-fa13-6c93-258b-f7affdce5cbc
+                host: SHADOW
+                memory:
+                    total: "8358518784"
+                os: Windows-11-10.0.26200-SP0
+                program: c:\Users\User\Desktop\Yoga-Mat-master\A_Yoga_main.py
+                python: CPython 3.12.4
+                root: C:\Users\User\Desktop\Yoga-Mat-master
+                startedAt: "2025-12-26T09:15:15.043371Z"
+                writerId: v4ocpgchw8xidplmy5bil8n1xno9wcaq
+        m: []
+        python_version: 3.12.4
+        t:
+            "1":
+                - 2
+                - 3
+                - 5
+                - 12
+                - 53
+            "2":
+                - 2
+                - 3
+                - 5
+                - 12
+                - 53
+            "4": 3.12.4
+            "5": 0.23.1
+            "8":
+                - 3
+            "12": 0.23.1
+            "13": windows-amd64
