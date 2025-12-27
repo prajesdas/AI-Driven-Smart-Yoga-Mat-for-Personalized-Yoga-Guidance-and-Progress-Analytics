@@ -78,6 +78,9 @@ Seamless pose transitions
 Adaptive recommendations based on performance
 
 This creates a mindful, uninterrupted, and highly engaging yoga experience.
+![WhatsApp Image 2025-12-27 at 11 46 50 AM (1)](https://github.com/user-attachments/assets/9cb16f62-09dd-492e-8171-bd270d70f41f)
+
+
 
 ##  Smart Watch Integration
 
